@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /3
+Disallow: /prototype
+
+Sitemap: /sitemap-1.txt
+Sitemap: /sitemap-2.txt
+Sitemap: /sitemap-3.txt
+Sitemap: /sitemap-4.txt
+Sitemap: /sitemap-5.txt
+Sitemap: /sitemap-6.txt
+Sitemap: /sitemap-7.txt
+Sitemap: /sitemap-8.txt
+Sitemap: /sitemap-9.txt
+Sitemap: /sitemap-10.txt
+Sitemap: /sitemap-11.txt
+Sitemap: /sitemap-12.txt
+Sitemap: /sitemap-13.txt
